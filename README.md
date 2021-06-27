@@ -4,7 +4,7 @@
 [![language](https://img.shields.io/badge/language-c%2B%2B-orange)](#language)
 [![commit](https://img.shields.io/github/last-commit/HFUT-cskaoyan/zhenti)](#commit)  
 :heartpulse:**本项目是对合工大计算机850考研资料的收集和整理，一切免费面向考研er们**  
-:love_letter:**如有相关资料请及时联系本账号删除**
+:love_letter:**如有相关资料侵权请及时联系本账号删除**
 
 ## :pencil:真题
 [2014年真题](./zhenti/2014.md)  
