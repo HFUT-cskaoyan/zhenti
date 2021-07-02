@@ -16,7 +16,7 @@
 
 ## :clipboard: 重难点
 
-[重难点目录参照](./keypoint)
+[重难点目录参照](../keypoint)
 
 ## :newspaper:课件
 
